@@ -108,6 +108,7 @@ The scatter plot below compares actual flight prices against predicted flight pr
 ##Live performance
 
 🚀 Live Demo: [Click here to view the app]
+
 (https://flight-prediction-site.streamlit.app)
 
 
