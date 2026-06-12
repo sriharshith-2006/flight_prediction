@@ -105,7 +105,7 @@ The scatter plot below compares actual flight prices against predicted flight pr
 - XGBoost
 - Streamlit
 
-##Live performance
+##  Live performance
 
 🚀 Live Demo: [Click here to view the app]
 
