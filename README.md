@@ -103,6 +103,12 @@ The scatter plot below compares actual flight prices against predicted flight pr
 - Matplotlib
 - Scikit-Learn
 - XGBoost
+- Streamlit
+
+##Live performance
+
+🚀 Live Demo: [Click here to view the app]
+(https://flight-prediction-site.streamlit.app)
 
 
 ## 🚀 Future Improvements
@@ -110,8 +116,6 @@ The scatter plot below compares actual flight prices against predicted flight pr
 - Hyperparameter tuning using GridSearchCV
 - Cross-validation
 - Feature engineering for route complexity
-- Deployment using Streamlit or Flask
-- Cloud deployment for public access
 
 ## 🎯 Conclusion
 
@@ -123,6 +127,7 @@ This project demonstrates a complete machine learning workflow including:
 - Model Training
 - Model Evaluation
 - Performance Visualization
+- Model Deployment using Streamlit
 
 The final XGBoost model achieved strong predictive performance and serves as a solid baseline for real-world flight price prediction systems.
 
